@@ -540,6 +540,15 @@ nav {
   }
 }
 @media (max-width: 767px) {
+  .fotter_menu {
+    width: 100%;
+    text-align: center;
+  }
+  .fotter_menu_text {
+    text-align: center;
+    margin-left: 0%;
+    transform: none;
+  }
   .menu {
     position: fixed;
     top: 0;
